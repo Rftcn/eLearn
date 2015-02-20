@@ -1,0 +1,34 @@
+label, fieldset {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	font: 12px/17px Arial
+}
+
+fieldset.form label {
+	position: relative;
+	margin-right: 20px
+}
+fieldset.form label.checkbox input[type='checkbox'] {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	filter: alpha(opacity=0);
+	cursor: pointer
+}
+fieldset.form label.checkbox span {
+	display: inline-block;
+	width: 13px;
+	height: 13px;
+	background:url(../img/checkbox.png)  no-repeat;
+	margin-right: 5px;
+	position: relative;
+	top: 2px;
+	#top: 0
+}
+fieldset.form label.checkbox span.aktif {
+	background-position: 0 -13px
+}

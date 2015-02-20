@@ -1,0 +1,104 @@
+ @charset "utf-8";
+ /* CSS Document */
+ a{text-decoration:none; color:#000;}
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.bol {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.in {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	
+	/*İkinci Sayfa Boyutu İçin */
+	.bol2 {background-color:#dae5f7; height:155px;}
+	.bol2text h1 {color:#565656; margin-top:7%; width:38%; font-size:20px; font-weight:bold;}
+	.home {margin-left:11%;}
+	.bol2text ul {float:right; margin-top:-4%; width:31%;}
+	.bol2text li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.bol2text a {color:#a0a3a8;}
+	.bol2text a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	
+	/*Üçüncü Sayfa Boyutu İçin */
+	.bol3 {height:415px; background-color:#cfcece;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */
+	 
+	/*Dördünxü Sayfa Boyutu İçin  */ 
+	.bol4 {height:1340px; background-color:#f4f4f4;}
+	.dont {text-align:center; margin:65px 0 90px 0;}
+	
+	.nameinput input{opacity:0.3; font-size:15px; text-indent:20px; width:460px; height:45px; border-radius:10px; border:2px solid #dbdbdb; margin:0 0 30px 0;}
+	.nameinputt {float:right; margin:-40% 0 0 0;}
+	.nameinputt textarea {resize:none; width:460px; opacity:0.3; height:270px;  text-indent:20px; border-radius:10px; border:2px solid #dbdbdb;}
+	
+	.reset {margin:0 20px 0 0; width:130px; height:60px; background-color:#cfcece; border:#acacac; border-bottom:2px solid #acacac;  border-radius:5px; color:#fff; font-weight:bold; font-size:15px; 	}
+	.send {width:215px; height:60px; background-color:#65be3e; border:#498e2b; 	border-bottom:2px solid #498e2b; border-radius:5px; color:#fff; font-weight:bold; font-size:15px;}
+	.send img {margin:-2px 20px 0 0;}
+	.buttonkap {float:right; margin-bottom:30px;}
+	
+	.do h1 {margin:155px 0 0 0; text-align:center; color:#838383; font-weight:leighter; font-size:25px;}
+	.do h1 span {color:#565656; font-weight:bold;}
+	.do p {text-align:center; margin-top:40px; color:#959595;}
+	
+	.sosyaller {float:left; margin-top:110px;}
+	.twitter {float:left; color:#22bbfb; margin:0 100px 0 0; font-size:15px; text-align:center;}
+	.facee {color:#537ec7; float:left; margin:0 100px 0 0;  font-size:15px; text-align:center;}
+	.drib {color:#f28bfb; float:left; margin:0 100px 0 0;  font-size:15px; text-align:center;}
+	.gooog {color:#ea694b; float:left;   font-size:15px; text-align:center;}
+	
+	/*Dördünxü Sayfa Boyutu İçin  */ 
+	 
+	/*Beşinci Sayfa Boyutu İçin*/
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.uc {margin-top:3%; float:left; margin-left:3%;}
+	.uc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */

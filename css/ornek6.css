@@ -1,0 +1,98 @@
+ @charset "utf-8";
+ /* CSS Document */
+ a{text-decoration:none; color:#000;}
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.bolumm {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.in {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	
+	/*İkinci Sayfa Boyutu İçin */
+	.bolumm2 {background-color:#dae5f7; height:155px;}
+	.bol2text h2 {color:#565656; margin-top:7%; font-weight:bold; float:left;}
+	.bol2text ul {float:right; margin-top:7%; width:31%;}
+	.bol2text ul {float:right; margin-top:7%; width:31%;}
+	.bol2text li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.bol2text a {color:#a0a3a8;}
+	.bol2text a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	
+	/*Üçüncü Sayfa Boyutu İçin */
+	.bolumm3 {height:1211px; background-color:#f4f4f4;}
+	.kutuu {width:215px; height:630px;}
+	.kutuu img {margin:85px 0 0 0; padding:0;}
+	.kutuu  li {background-image:url(../img/kutuu.png); background-repeat: no-repeat; margin:60px 0 0 0; height:33px; text-align:center; padding-top:10px; }
+	.kutuu .turuncu {background-image:url(../img/turuncu.png); color:#fff;}
+	.kutuu ul {padding:0;}
+	.kutuutext {float:right; width:700px; height:570px; margin-top:-67%;}
+	.kutuutext h2 {color:#656565;}
+	.kutuutext p {color:#a8a8a8; font-weight:normal; margin:35px 0 35px 0; font-family:italic;}
+	.kutuutext2 p{margin:30px 0 0 0;}
+	.kutuutext2 {margin-top:10%;}
+	.kutuu li:hover {background-image:url(../img/acık.png);}
+	.kutuu li:active {background-image:url(../img/turuncu.png);}
+	
+	.sagg {margin:34% 0 0 27%; width:330px; height:195px;}
+	.sagg h2 {margin:-11% 0 0 25%; color:#565656;}
+	.sagg p {width:330px; height:130px; color:#a8a8a8; margin-top:10%; font-family:Arial,Sans-serif;} 
+	.soll {margin:-20% 0 0 0; float:right; width:330px; height:195px;}
+	.soll h2 {margin:-11% 0 0 25%; color:#565656;}
+	.soll p {width:330px; height:130px; color:#a8a8a8; margin-top:10%; font-family:Arial,Sans-serif;} 
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */
+	 
+	/*Dördüncü Sayfa Boyutu İçin*/
+	.bolumm4 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.uc {margin-top:3%; float:left; margin-left:3%;}
+	.uc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Dördüncü Sayfa Boyutu İçin Bitiş */

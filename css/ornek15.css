@@ -1,0 +1,20 @@
+ @charset "utf-8";
+ /* CSS Document */
+ a{text-decoration:none; color:#000;}
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	
+	.sonsayfa {background-image:url(..//img/arka.png); height:835px;}
+	.weare h1{text-align:center; color:#707983; font-weight:lighter; font-size:27px; margin:115px 0 110px 0;}
+	.weare h1 span {color:#f8f8f8;}
+	.saat {text-align:center;}
+	.saat img {margin:0 40px 0 0;}
+	.saattext li {font-size:17px; float:left; color:#f8f8f8; margin:50px -85px 0 20%;}
+	.saattext img {margin:0 auto; display:block; margin-top:180px;}
+	
+	.logo {
+	margin:0 auto;
+	display:block;
+	margin-top:70px;
+	width:120px;
+	height:45px; }
+	/*İLK Sayfa Boyutu İçin Bölüm*/

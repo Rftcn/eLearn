@@ -1,0 +1,109 @@
+ @charset "utf-8";
+ /* CSS Document */
+ a{text-decoration:none; color:#000;}
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.bolum {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.ın {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	
+	/*İkinci Sayfa Boyutu İçin */
+	.bolum2 {background-color:#dae5f7; height:155px;}
+	.bolum2text h2 {color:#565656; margin-top:7%; width:38%;}
+	.bolum2text ul {float:right; margin-top:-4%; width:31%;}
+	.bolum2text li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.bolum2text a {color:#a0a3a8;}
+	.bolum2text a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	
+	/*Üçüncü Sayfa Boyutu İçin */
+	.bolum3 {height:1630px; background-color:#f4f4f4;}
+	.bolum3up p {float:left; color:#cfcece; margin:90px 6% 0 3%;}
+	.bolum3up p span{color:#65be3e;}
+	.bolum3up img {padding-top:40px; margin:0 auto; display:block;}
+	.bolum3up h2 {margin-top:90px; color:#65be3e; font-size:20px;}
+	.forum li {float:left; font-size:15px; margin:0 25% 0 0; color:#656565; font-weight:normal;}
+	.forum ul {padding:0;}
+	.forum input {height:40px; width:285px; border:2px solid #e7e7e7; border-top-color:#e7e7e7; border-radius:8px; text-indent:10px; font-size:13px; color:#cecece; margin:25px 2% 0 0;}
+	.forum2 select {height:40px; width:285px; border-color:#e7e7e7; border-top-color:#e7e7e7; border-radius:8px; text-indent:10px; font-size:13px; color:#cecece; margin:25px 2% 0 0;}
+	.forum1 li {float:left; font-size:15px; margin:0 20% 0 0; color:#656565; font-weight:normal;}
+	.forum2 li {float:left; font-size:15px; margin:0 28% 0 0; color:#656565; font-weight:normal;}
+	.bolum3teac h2{font-size:20px; color:#65be3e; margin-top:90px;}
+	.label {margin-top:15px;}
+	.bolum3add h3{margin-top:50px; color:#565656;}
+	.bolum3add input {width:290px; height:40px; border-color:#e0e0e0; border-radius:5px; font-size:14px; text-indent:10px; color:#e0e0e0;}
+	.add {color:#fff; width:65px; height:40px; border-radius:5px; background-color:#65be3e;  border:4px solid #65be3e; border-bottom-color:#498e2b;}
+	.twit {margin-top:45px; float:left;}
+	.twit img {height:45px; margin:0 15px 0 0;}
+	.twit input {color:#565656;}
+	.fac {margin-top:45px; float:left;}
+	.fac input {color:#565656;}
+	.fac img {height:45px;  margin:0 15px 0 15px;}
+	.bolum3add ul {clear:both; padding:0;}
+	.bolum3add li {float:left;  margin:25px 20px 0 0;}
+	.bolum3addbut {margin-top:145px;}
+	.upda {width:185px; height:60px; background-color:#f97307; color:#fff; border-radius:6px; border:4px solid #f97307; border-bottom-color:#c95e08; }
+	.update {width:185px; height:60px; background-color:#65be3e; color:#fff; border-radius:6px; border:4px solid #65be3e; border-bottom-color:#498e2b; margin-left:25px;}
+	.update img {margin:-2.5px 5px 0 0;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */
+	 
+	 
+	/*Beşinci Sayfa Boyutu İçin*/
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.üc {margin-top:3%; float:left; margin-left:3%;}
+	.üc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */

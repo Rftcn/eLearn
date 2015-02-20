@@ -1,0 +1,192 @@
+ @charset "utf-8";
+ /* CSS Document */
+ a{text-decoration:none; color:#000;}
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.bolum {
+	width:100%;
+	height:605px;
+	background:url(../img/arka.png); }
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.ın {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	.orta {
+	width:53%;
+	margin:14.7% 0 0 0;
+	float:left;
+	font-size:25px;
+	color:#fff;
+	font-weight: bold; }
+	/*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*/
+	.galeri-item {display:none;}
+	.galeri-item.active{display:block;}
+	.sag{float:right; width:35%; margin-top:11.3%;}
+	.orta span {font-weight:normal;}
+	.orta h4 {float:left; font-family:arial; width:100%;}
+	.orta h4 span {color:#aaaeb3;}
+	.orta p {color:#aaaeb3; font-family:arial; margin:0 0 20% 0;}
+	.orta p span {color:#fff;}
+	.start  {float:left; margin:0 10% 0 0; font-size:15px; width:185px; height:60px; background-color:#f97307; border:#c95e08; color:#fff; border-radius:5px; border-bottom:3px solid #c95e08; }
+	.start1 {float:left; font-size:15px; width:185px; height:60px; background-color:#65be3e; border:#498e2b; color:#fff; border-radius:5px; border-bottom:3px solid #498e2b; }
+	.start1 img {margin:-3px 8px 0 0;}
+	/*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*/
+	/*İLK Sayfa Boyutu İçin Bitiş */
+	
+	/*İkinci Sayfa Boyutu İçin*/
+	.bolum2 {height:770px; width:100%; background-color:#f4f4f4; }
+	.ust ul{margin-top:40px;  margin-left:40%;}
+	.ust li {width:10px; height:10px; background:#fff; border:2px solid #6e7d8d; border-radius:50%; float:left;cursor:pointer; margin:0 0 0 10px;}
+	.ust li:first-child{margin-left:0;}
+	.ust li.active{background:#6e7d8d;}
+	.text {margin-top:10%;}
+	.text h3 {text-align:center; color:#565656; font-weight:bold; font-size:25px;}
+	.text h3 span {color:#959595; font-weight:normal;}
+	.text p {text-align:center; color:#808080; font-size:16px;}
+	.pictures {width:100%;}
+	.pictures ul li {float:left; margin:10% 2.7% 0 0;}
+	.yazilar {width:100%; margin:0 auto; font-weight:bold;}
+	.yazilar ul li {float:left; margin:0 2.8% 0 2% }
+	.yazilar ul li span{display:block;clear:both;text-align:center;}
+	.gecis1	{text-align:center; margin-top:15%;}
+	.gecis1 img {margin:0 0 15% 0;}
+	.text1 h3{text-align:center; color:#565656; font-weight:bold; font-size:25px;}
+	.text1 h3 span {color:#959595; font-weight:normal;}
+	.text1 p {text-align:center; color:#808080; font-size:16px; margin:0 auto; width:83%;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */
+	.bolum3 {height:425px; background-image:url(../img/arka.png);}
+	.ustyazı {text-align:center; color:#babec2; margin-top:10%; font-size:19px;}
+	.ustyazı span {color:#fff; font-weight: bold;}
+	.ustyazı1 {font-size:18px; color:#6c757e; text-align:center;}
+	.butonlar {margin:0 auto; width:48%; margin-top:10%;}
+	.star  {float:left; margin:0; width:215px; height:60px; background-color:#f97307; border-radius:8px;  border:0; border-bottom:3px solid #c95e08; color:#fff; margin:0 5% 0 0;}
+	.star1 {float:left; margin:0; width:215px; height:60px; background-color:#65be3e; border-radius:8px; border:0; border-bottom:3px solid #498e2b; color:#fff;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */
+	
+	/*Dördüncü Sayfa Boyutu İçin*/
+	.bolum4 {height:815px; background-color:#f4f4f4;}
+	.usttext {color:#565656; font-size:19px; font-weight:bold; text-align:center; margin-top:11%;}
+	.usttext span {color:#6b6b6b;  font-weight:normal;}
+	.usttext1 {width:83%; margin:0 auto; color:#565656; font-size:14px;}
+	.usttext1 span {width:61%; margin:0 auto; display:block; margin-top:3%;}
+	.list {width:225px; float:left; margin:5% 1.5% 0 0;}
+	.list img {margin:0 15px 0 0;}
+	.list h3 ,p,listbuton {text-align:center;}
+	.list p {color:#999999; font-size:14px;}
+	.listbuton {width:225px; height:55px; background-color:#65be3e; color:#fff; border-radius:7px; border:0; border-bottom:3px solid #498e2b; margin-top:15%;}
+	.listbuton2 {width:225px; height:55px; background-color:#8b8b8b; color:#fff; border-radius:7px; border:0; border-bottom:3px solid #727272; margin-top:15%;}
+	/*Dördüncü Sayfa Boyutu İçin Bitiş */
+	
+	/*Beşinci Sayfa Boyutu İçin Bitiş */
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.üc {margin-top:3%; float:left; margin-left:3%;}
+	.üc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */
+	
+	
+	
+  .chart {
+  font-size:45px;
+  color:#000;
+  border-radius:50%;
+  position:relative;
+  width:185px;
+  height:185px;
+  line-height:185px;
+  margin:30px auto;
+  text-align:center;
+  }
+   .chart canvas {
+   position: absolute;
+   top: 0;
+   left: 0;	
+   }
+.percent {
+  display: inline-block;
+  line-height: 110px;
+  z-index: 2;
+}
+.percent:after {
+  content: '%';
+  margin-left: 0.1em;
+  font-size: .8em;
+}
+.angular {
+  margin-top: 100px;
+}
+.angular .chart {
+  margin-top: 0;
+}
+.input {
+  display: block;
+  margin: auto;
+  margin-bottom: 3em;
+}
+.btn {
+  display: block;
+  text-align:center;
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background: #cccccc;
+  color: #ffffff;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 0.8em;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.btn:hover {
+  background: #333333;
+  color: #ffffff;
+}
