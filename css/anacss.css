@@ -1579,5 +1579,18 @@
 	margin-top:70px;
 	width:120px;
 	height:45px; }
+	
+	#clock {
+	width:705px;
+	height:100px;
+	line-height:90px;
+	border-radius:20px;
+	font-size:40px;
+	color:#0b0758;
+	background-color:#617286;
+	margin:0 auto;
+	}
 	/*İLK Sayfa Boyutu İçin Bölüm*/
 	/*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */
+	
+	
