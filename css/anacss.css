@@ -31,18 +31,18 @@
 	color:#97a5b5;}
 	.ın {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
 	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
-	.orta {
+	.ortataraf {
 	margin:14.7% 0 0 0;
 	float:left;
 	font-size:25px;
 	color:#fff;
 	font-weight: bold;}
-	.orta span {font-weight:normal;}
-	.orta p {
+	.ortataraf span {font-weight:normal;}
+	.ortataraf p {
 	float:left;}
-	.start {
+	.starttoday {
 	float:right;
-	margin:7px 0 19% 100px;
+	margin:7px 0 17.6% 100px;
 	font-size:15px;
 	width:185px;
 	height:60px;
@@ -151,9 +151,9 @@
 	/*ÜÇÜNCÜ Sayfa Boyutu İçin bitiş */
 	/*DÖRDÜNCÜ Sayfa Boyutu İçin */
 	.boyut4 {width:100%; background:#3d4855 url(../img/arka.png);}
-	.ilk{width:250px; margin:50px 0 0 0; float:left;}
-	.ilk h1 {color:#fff; margin:0 0 15% 0; font-size:16px;}
-	.ilk p {color:#aeb1b4; font-size:14px;}
+	.ilkk{width:250px; margin:50px 0 0 0; float:left;}
+	.ilkk h1 {color:#fff; margin:0 0 15% 0; font-size:16px;}
+	.ilkk p {color:#aeb1b4; font-size:14px;}
 	.ikinci {width:185px; margin:50px 25px 0 0; float:left;}
 	.ikinci h1 {color:#fff; margin:0 0 18% 0; font-size:16px;}
 	.ikinci a{color:#aeb1b4;}
@@ -172,6 +172,7 @@
 	.altkısım  p {font-size:16px; margin:2.5% 0 0 15%; color:#bfc2c3;}
 	/*DÖRDÜNCÜ Sayfa Boyutu İçin BİTİŞ */
 	/*İLK Sayfa Boyutu İçin */ /*İLK Sayfa Boyutu İçin */ /*İLK Sayfa Boyutu İçin */ /*İLK Sayfa Boyutu İçin */ /*İLK Sayfa Boyutu İçin */
+	
 	
 	
 	/*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */
@@ -224,9 +225,9 @@
 	/*İkinci Sayfa Boyutu İçin*/
 	.sayfa2 {height:1500px; width:100%; background-color:#f4f4f4; }
 	.ust {margin-top:5%; text-align:center;}
-	.text h3 {text-align:center; color:#565656; font-weight:bold; font-size:25px;}
-	.text h3 span {color:#959595; font-weight:normal;}
-	.text p {text-align:center; color:#808080; font-size:16px;}
+	.textup h3 {text-align:center; color:#565656; font-weight:bold; font-size:25px;}
+	.textup h3 span {color:#959595; font-weight:normal;}
+	.textup p {text-align:center; color:#808080; font-size:16px;}
 	.pictures ul {padding:0; margin:0 0 0 55px;}
 	.pictures ul li {float:left; margin:0 7.4% 0 0;}
 	.gecis1	{text-align:center; margin-top:15%;}
@@ -288,9 +289,9 @@
 	/*Dördüncü Sayfa Boyutu İçin Bitiş */
 	/*Beşinci Sayfa Boyutu İçin Bitiş */
 	.sayfa5 {width:100%; background:#3d4855 url(../img/arka.png);}	
-	.ilk{width:250px; margin:50px 0 0 0; float:left;}
-	.ilk h1 {color:#fff; margin:0 0 15% 0; font-size:16px;}
-	.ilk p {color:#aeb1b4; font-size:14px;}
+	.ilkk {width:250px; margin:50px 0 0 0; float:left;}
+	.ilkk h1 {color:#fff; margin:0 0 15% 0; font-size:16px;}
+	.ilkk p {color:#aeb1b4; font-size:14px;}
 	.ikinci {width:185px; margin:50px 25px 0 0; float:left;}
 	.ikinci h1 {color:#fff; margin:0 0 18% 0; font-size:16px;}
 	.ikinci a{color:#aeb1b4;}
@@ -311,6 +312,7 @@
 	/*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */ /*İKİ Sayfa Boyutu İçin */
 	
 	
+	
 	/*ÜÇÜNCÜ Sayfa Boyutu İçin */ /*ÜÇÜNCÜ Sayfa Boyutu İçin */ /*ÜÇÜNCÜ Sayfa Boyutu İçin */ /*ÜÇÜNCÜ Sayfa Boyutu İçin */ 
 	/*İLK Sayfa Boyutu İçin Bölüm*/
 	.bolum {
@@ -327,7 +329,7 @@
 	/*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*//*SLİDER BÖLÜMÜNÜN*/
 	.galeri-item {display:none;}
 	.galeri-item.active{display:block;}
-	.sag{float:right; width:35%; margin-top:12.3%;}
+	.sagtel{float:right; width:35%; margin-top:11.3%;}
 	.ortaa span {font-weight:normal;}
 	.ortaa h4 {float:left; font-family:arial; width:100%;}
 	.ortaa h4 span {color:#aaaeb3;}
@@ -343,12 +345,12 @@
 	.ust li {width:10px; height:10px; background:#fff; border:2px solid #6e7d8d; border-radius:50%; float:left;cursor:pointer; margin:0 0 0 10px;}
 	.ust li:first-child{margin-left:0;}
 	.ust li.active{background:#6e7d8d;}
-	.text {margin-top:10%;}
+	.textup {margin-top:10%;}
 	.text h3 {text-align:center; color:#565656; font-weight:bold; font-size:25px;}
 	.text h3 span {color:#959595; font-weight:normal;}
 	.text p {text-align:center; color:#808080; font-size:16px;}
 	.pictures {width:100%;}
-	.pictures ul li {float:left; margin:10% 2.7% 0 0;}
+	.pictures ul li {float:left; margin:10% 7% 0 0;}
 	.yazilar {width:100%; margin:0 auto; font-weight:bold;}
 	.yazilar ul li {float:left; margin:0 2.8% 0 2% }
 	.yazilar ul li span{display:block;clear:both;text-align:center;}
@@ -375,7 +377,7 @@
 	.usttext1 span {width:61%; margin:0 auto; display:block; margin-top:3%;}
 	.list {width:225px; float:left; margin:5% 1.5% 0 0;}
 	.list img {margin:0 15px 0 0;}
-	.list h3 ,p,listbuton {text-align:center;}
+	.list h3 .list p,listbuton {text-align:center;}
 	.list p {color:#999999; font-size:14px;}
 	.listbuton {width:225px; height:55px; background-color:#65be3e; color:#fff; border-radius:7px; border:0; border-bottom:3px solid #498e2b; margin-top:15%;}
 	.listbuton2 {width:225px; height:55px; background-color:#8b8b8b; color:#fff; border-radius:7px; border:0; border-bottom:3px solid #727272; margin-top:15%;}
@@ -881,12 +883,20 @@
 	.video2text a span {color:#565656;}
 	/*İkinci Sayfa Boyutu İçin Bitiş */
 	/*Üçüncü Sayfa Boyutu İçin */
+	
+	
+	
+	
+	
+	
+	
+	
 	.video3 {height:1700px; background-color:#f4f4f4;}
 	.menuul  span li {color:#565656; background-color:#f97307; width:100px; height:30px; border-radius:30px;}
 	.menuul li {color:#565656; background-color:#dae5f7; height:35px; width:130px; border-radius:20px; text-align:center; font-weight:bold; padding-top:1.5%;}
 	.menuul ul li {float:left; margin:0 15px 0 0;}
 	.menuul a {color:#565656}
-	.menuul ul {float:left; font-size:15px; padding:0; margin-top:65px;}
+	.menuul ul {float:left; font-size:15px; padding:0; margin-top:65px; line-height:22px;}
 	.vdeo img {margin:65px 17px 0 0;}
 	.vdeo {float:left; height:440px;}
 	.vdeo h4 {font-weight:bold; color:#565656; margin-top:30px; margin-bottom:35px;}
@@ -1022,5 +1032,552 @@
 	/*DOKUZZ Sayfa Boyutu İçin Bitiş */ /*DOKUZZ Sayfa Boyutu İçin Bitiş */ /*DOKUZZ Sayfa Boyutu İçin Bitiş */ /*DOKUZZ Sayfa Boyutu İçin Bitiş */
 	
 	
-	
+	/*10. Sayfa Boyutu İçin Bitiş */ /*10. Sayfa Boyutu İçin Bitiş */ /*10. Sayfa Boyutu İçin Bitiş */ /*10. Sayfa Boyutu İçin Bitiş */
 	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.like {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.in {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	
+	/*İkinci Sayfa Boyutu İçin */
+	.likeiki {background-color:#dae5f7; height:155px;}
+	.likeikitext h2 {color:#565656; margin-top:7%; width:38%; font-weight:bold;}
+	.home {margin-left:20%;}
+	.likeikitext ul {float:right; margin-top:-4%; width:31%;}
+	.likeikitext li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.likeikitext a {color:#a0a3a8;}
+	.likeikitext a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	
+	/*Üçüncü Sayfa Boyutu İçin */
+	.likeüc {height:1490px; background-color:#f4f4f4;}
+	.buyuk {margin-top:70px; float:left;}
+	.buyukright h4 {float:right; margin:8% 10% 0 0; font-weight:bold;}
+	.listtext {float:left; margin:40px 0 0 -14px; font-size:13px; font-weight:bold; }
+	.listtext li{margin:0 0 15px 0; color:#565656; }
+	.listtext li span {color:#8b8b8b;}
+	.textyazi {float:right; width:32%; color:#8b8b8b; margin:0 5px 0 0;}
+	.buttonlar {float:right; margin:30px 0 0 0;}
+	.beyaz {width:140px; height:55px; margin:0 20px 20px 0; background-color:#f55b50; color:#fff; font-weight:bold;   border:2px solid; 	 border-bottom-color:#c23f36;  border-radius:4px; }
+	.beyaz img {margin:-2px 25px 0 0;}
+	.imgarti {width:140px; height:55px; background-color:#f97307; color:#fff; font-weight:bold;   border:2px solid; 	 border-bottom-color:#f97307;  border-radius:4px; }
+	.imgarti img {margin:-2px 25px 0 0;}
+	.imgstart {width:300px; height:60px; background-color:#65be3e; color:#fff; font-weight:bold;   border:2px solid; 	 border-bottom-color:#65be3e;  border-radius:4px; }
+	.imgstart img {margin:-2px 25px 0 0;}
+	.soltext {float:left; margin-top:50px; font-size:16px; color:#565656; font-weight:bold;}
+	.vdeokutu {float:left; margin-top:-14.5%;}
+	.vdeokutu img {float:left; margin:0 20px 0 0;}
+	.kutualtt {float:left;}
+	.kutualt {float:left;  margin:20px 20px 0 0; width:300px; height:60px; background-color:#65be3e; color:#fff; font-weight:bold;   border:1px solid; 	 border-bottom-color:#65be3e;  border-radius:4px;}
+	.kutualtt img{margin-left:10px;}
+	.kutualt2 {float:left;  margin:20px 10px 0 0; width:300px; height:60px; background-color:#cfcece; color:#fff; font-weight:bold;   border:1px solid; 	 border-bottom-color:#cfcece;  border-radius:4px;}	
+	.vdeokutu2 {float:left; margin:60px 0 0 0;}
+	.vdeokutu2 img {float:left; margin:0 20px 0 0;}
+	.kutualt-2 {float:left;  margin:20px 20px 0 0; width:300px; height:60px; background-color:#cfcece; color:#fff; font-weight:bold;   border:1px solid; 	 border-bottom-color:#cfcece;  border-radius:4px;}
+	.kutualt-2 img {margin-left:15px;}
+	.sosyalag {margin:20px 0 0 0;}
+	.son {clear:both;}
+	.son img {margin:85px 0 0 5px;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */
+	 
+	/*Beşinci Sayfa Boyutu İçin*/
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.uc {margin-top:3%; float:left; margin-left:3%;}
+	.uc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */
+	/*10. Sayfa Boyutu İçin Bitiş */ /*10. Sayfa Boyutu İçin Bitiş */ /*10. Sayfa Boyutu İçin Bitiş */ /*10. Sayfa Boyutu İçin Bitiş */
+	
+	
+	/*11. Sayfa Boyutu İçin Bitiş *//*11. Sayfa Boyutu İçin Bitiş */ /*11. Sayfa Boyutu İçin Bitiş */ /*11. Sayfa Boyutu İçin Bitiş */
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.blog {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.in {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	/*İkinci Sayfa Boyutu İçin */
+	.blogiki {background-color:#dae5f7; height:155px;}
+	.blogikitext h1 {color:#565656; margin-top:7%; width:38%; font-size:20px; font-weight:bold;}
+	.homee {margin-left:37%; margin-top:-2%;}
+	.blogikitext ul {float:right; margin-top:-4%; width:31%;}
+	.blogikitext li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.blogikitext a {color:#a0a3a8;}
+	.blogikitext a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	/*Üçüncü Sayfa Boyutu İçin */
+	.blogüc {height:1870px; background-color:#f4f4f4;}
+	.disikapsa {float:left; width:65%;}
+	.ilktext {float:left; font-weight:bold; font-size:14px; color:#565656; margin-top:50px;} .ilktext h2 {margin-bottom:40px;}
+	.ilktextbuton {width:160px; height:60px; background-color:#f97307; border:2px solid #f97307; border-bottom-color:#c85c05; float:right; border-radius:4px; color:#fff; font-weight:bold; margin-top:30px; }
+	.textyazı  {float:right; width:32%; color:#8b8b8b; margin:0 5px 0 0;} .ilktext img {margin-bottom:20px;}
+	.son {margin:85px 0 0 0;}
+	.kapsaright {float:right; width:35%;}
+	.rightyazi  {float:right; font-weight:bold; font-size:14px; color:#565656; margin-top:10px;} .rightyazi h2 {margin:60px 0 40px 0;}
+	.kapsaright input {width:300px; line-height:40px; border:2px solid #d9d9d9; border-radius:10px; text-indent:20px; opacity:0.4;background:url(..//img/arama.png) 100% 50% no-repeat;}
+	.rightgaleri {margin-top:50px;}
+	.altili {margin:0 0 15px 0;} .rightgaleri img {margin:0 10px 0 0;}
+	.sosyall h3{background:url(../img/twitt.png) 0 0 no-repeat;height:40px;line-height:40px;padding:0 0 0 50px;}
+	.sosyall {margin-bottom:80px;}
+	.actionn ul{padding:0;}
+	.actionn li {font-size:15px; line-height:40px;}
+	.action a {color:#a2a2a2;}
+	.actionn a:active , .actionn li.active  a{color:green; background:url(..//img/beyazstart.png) 0 0 no-repeat; padding:0 0 0 30px; }
+	.rightrecent ul {padding:0;}
+	.rightrecent li {line-height:25px; color:#565656; font-weight:bold;}
+	.rightrecent {margin-bottom:40px;}
+	.rightrecent  .normal {font-weight:lighter; color:#a2a2a2;}
+	.rightrecent2 ul {padding:0;}
+	.rightrecent2 li {line-height:25px; color:#565656; font-weight:bold; background-color:#dae4f7;}
+	.rightrecent2 {margin-bottom:40px;}
+	.rightrecent2 .normal {font-weight:lighter; color:#a2a2a2;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */ 
+	/*Beşinci Sayfa Boyutu İçin*/
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.uc {margin-top:3%; float:left; margin-left:3%;}
+	.uc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */
+	/*11. Sayfa Boyutu İçin Bitiş */ /*11. Sayfa Boyutu İçin Bitiş */ /*11. Sayfa Boyutu İçin Bitiş */ /*11. Sayfa Boyutu İçin Bitiş */
+	
+	
+	
+	/*12. Sayfa Boyutu İçin Bitiş */ /*12. Sayfa Boyutu İçin Bitiş */ /*12. Sayfa Boyutu İçin Bitiş */ /*12. Sayfa Boyutu İçin Bitiş */
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.blogwith {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.in {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	/*İkinci Sayfa Boyutu İçin */
+	.blogwith2 {background-color:#dae5f7; height:155px;}
+	.blogwith2text h1 {color:#565656; margin-top:7%; width:38%; font-size:20px; font-weight:bold;}
+	.home {margin-left:11%;}
+	.blogwith2text ul {float:right; margin-top:-4%; width:31%;}
+	.blogwith2text li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.blogwith2text a {color:#a0a3a8;}
+	.blogwith2text a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	/*Üçüncü Sayfa Boyutu İçin */
+	.blogwith3 {height:3380px; background-color:#f4f4f4;}
+	.disikapsa {float:left; width:65%;}
+	.ilkktext {float:left; font-weight:bold; font-size:14px; color:#565656; margin:50px 0 60px 0;}  .ilktext h2 {margin-bottom:40px;}
+	.ilkkimg a img {margin:30px 0 0 0;}
+	.ilkktextbuton {width:160px; height:60px; background-color:#f97307; border:2px solid #f97307; border-bottom-color:#c85c05; float:right; border-radius:4px; color:#fff; font-weight:bold; margin-top:30px; }
+	.soltext h2{color:#8b8b8b; font-size:16px;}
+	.soltext p {line-height:30px; color:#a7a7a7; margin-top:60px; font-family:italic;}
+	.soltext img {margin-top:60px;}
+	.backbluee {width:620px; height:240px; background-color:#dae4f7; margin:70px 0 0 0;}
+	.backbluee h2 {color:#565656; margin:35px 0 0 40px; font-weight:lighter;}	
+	.ic {float:left;}
+	.ic img {margin:30px 0 0 40px;}
+	.ic p {float:right; width:70%; color:#8b8b8b; line-height:30px; margin-left:25px;}
+	.ic p span {color:#565656;}
+	.sharee {margin:40px 0 60px 0;}
+	.comments h2 {color:#565656; font-weight:bold; font-size:20px;}
+	.grikutu {width:620px; height:150px; margin-top:50px;}
+	.grikutu h3  {float:left; margin:-6% 0 0 9%; position:absolute; color:#f9801e;}
+	.grikutu p {float:right; width:80%; line-height:30px; margin-top:-6%;}
+	.grikutu p span {float:left; margin:-10.5% 0 0 30%; font-size:12px;  color:#b0b0b0;}
+	.sagreply {float:right;}
+	.grikutu2 {width:540px; margin:70px 0 80px 80px;}
+	.grikutu2 h3  {float:left; margin:-5% 0 0 8%; position:absolute; color:#f9801e;}
+	.grikutu2 p {float:right; width:80%; line-height:30px; margin-top:-5%;}
+	.grikutu2 p span {float:left; margin:-11.5% 0 0 36%; font-size:12px;  color:#b0b0b0;}
+	.post {font-weight:bold; color:#565656; font-size:14px;}
+	.post p {margin:30px 0 50px 0; color:#9b9b9b; font-weight:lighter; line-height:30px;}
+	.text {float:left; margin:40px 0 0 -14px; font-size:13px; font-weight:bold; }
+	.text li{margin:0 0 15px 0; color:#565656; }
+	.text li span {color:#8b8b8b;}
+	.textyazı  {float:right; width:32%; color:#8b8b8b; margin:0 5px 0 0;} .ilktext img {margin-bottom:20px;}
+	.son {clear:both; margin-bottom:7%;}
+	.kapsaright {float:right; width:35%;}
+	.rightyazi  {float:right; font-weight:bold; font-size:14px; color:#565656; margin-top:20px;} .rightyazi h2 {margin:60px 0 40px 0;}
+	.kapsaright input {width:300px; line-height:40px; border:2px solid #d9d9d9; border-radius:10px; text-indent:20px; opacity:0.4;background:url(..//img/arama.png) 100% 50% no-repeat;}
+	.rightgaleri {margin-top:50px;}
+	.altili {margin:0 0 15px 0;} .rightgaleri img {margin:0 10px 0 0;}
+	.sosyall h3{background:url(../img/twitt.png) 0 0 no-repeat;height:40px;line-height:40px;padding:0 0 0 50px;}
+	.sosyall {margin-bottom:80px;}
+	.actionn ul{padding:0;}
+	.actionn li {font-size:15px; line-height:40px;}
+	.action a {color:#a2a2a2;}
+	.actionn a:active , .actionn li.active  a{color:green; background:url(..//img/beyazstart.png) 0 0 no-repeat; padding:0 0 0 30px; }
+	.rightrecent ul {padding:0;}
+	.rightrecent li {line-height:25px; color:#565656; font-weight:bold;}
+	.rightrecent {margin-bottom:40px;}
+	.rightrecent  .normal {font-weight:lighter; color:#a2a2a2;}
+	.rightrecent2 ul {padding:0;}
+	.rightrecent2 li {line-height:25px; color:#565656; font-weight:bold; background-color:#dae4f7;}
+	.rightrecent2 {margin-bottom:40px;}
+	.rightrecent2 .normal {font-weight:lighter; color:#a2a2a2;}
+	.nameinput input{opacity:0.6; font-size:15px; text-indent:20px; width:300px; height:45px; border-radius:10px; border:2px solid #dbdbdb; margin:0 0 30px 0;}
+	.nameinputtm {float:right; margin:-62% -30% 0 0;}
+	.nameinputtm textarea {resize:none; width:300px; opacity:0.6; height:270px;  text-indent:20px; border-radius:10px; border:2px solid #dbdbdb;}
+	.reset {margin:0 20px 0 0; width:130px; height:60px; background-color:#cfcece; border:#acacac; border-bottom:2px solid #acacac;  border-radius:5px; color:#fff; font-weight:bold; font-size:15px; 	}
+	.send {width:215px; height:60px; background-color:#65be3e; border:#498e2b; 	border-bottom:2px solid #498e2b; border-radius:5px; color:#fff; font-weight:bold; font-size:15px;}
+	.send img {margin:-2px 20px 0 0;}
+	.buttonkap {float:right; margin-bottom:30px;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */ 
+	/*Beşinci Sayfa Boyutu İçin*/
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.uc {margin-top:3%; float:left; margin-left:3%;}
+	.uc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */
+	/*12. Sayfa Boyutu İçin Bitiş */ /*12. Sayfa Boyutu İçin Bitiş */ /*12. Sayfa Boyutu İçin Bitiş */ /*12. Sayfa Boyutu İçin Bitiş */
+	
+	/*13. Sayfa Boyutu İçin Bitiş */ /*13. Sayfa Boyutu İçin Bitiş */ /*13. Sayfa Boyutu İçin Bitiş */ /*13. Sayfa Boyutu İçin Bitiş */
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.about {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.in {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	/*İkinci Sayfa Boyutu İçin */
+	.about2 {background-color:#dae5f7; height:155px;}
+	.about2text h1 {color:#565656; margin-top:7%; width:38%; font-size:20px; font-weight:bold;}
+	.home {margin-left:11%;}
+	.about2text ul {float:right; margin-top:-4%; width:31%;}
+	.about2text li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.about2text a {color:#a0a3a8;}
+	.about2text a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	/*Üçüncü Sayfa Boyutu İçin */
+	.about3 {height:2100px; background-color:#f4f4f4;}
+	.meet {text-align:center; margin:80px 0 0 0;}
+	.meet p {line-height:20px; margin:0 0 80px 0; font-size:16px;}
+	.lacivert {margin:0 0 90px 75px; width:220px; height:380px; float:left;}
+	.lacivert h2 {text-align:center;}
+	.lacivert p {text-align:center; font-size:11px; color:#999999;}	
+	.lacivertt {margin:0 0 90px 20px; width:220px; height:380px; float:left;}
+	.lacivertt h2 {text-align:center;}
+	.lacivertt p {text-align:center; font-size:11px; color:#999999;}
+	.join {width:945px; height:300px; background-color:#dae4f7; clear:both; margin:0 0 120px 0;}
+	.join h3 {font-weight:bold; color:#36404b;}
+	.join p {font-size:12px; color:#b5bac5;}
+	.joinkapsa {text-align:center; padding-top:60px;}
+	.those h1 {color:#aaaaaa; font-weight:lighter; font-size:30px; text-align:center;}
+	.those h1 span {color:#565656; font-weight:bold;}
+	.those p {color:#565656; font-size:15px; font-weight:normal; line-height:30px; text-align:center;}
+	.linkler img {margin-bottom:80px;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */ 
+	/*Beşinci Sayfa Boyutu İçin*/
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.uc {margin-top:3%; float:left; margin-left:3%;}
+	.uc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */
+	/*13. Sayfa Boyutu İçin Bitiş */ /*13. Sayfa Boyutu İçin Bitiş */ /*13. Sayfa Boyutu İçin Bitiş */ /*13. Sayfa Boyutu İçin Bitiş */
+	
+	
+	/*14. Sayfa Boyutu İçin Bitiş */ /*14. Sayfa Boyutu İçin Bitiş */ /*14. Sayfa Boyutu İçin Bitiş */ /*14. Sayfa Boyutu İçin Bitiş */
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	.aboutus {
+	width:100%;
+	height:120px;
+	background-color:#36404b;}
+	.kapsam {
+	width:960px;
+	margin:0 auto; }
+	.logo {
+	background-color:#404c59;
+	margin-top:1%;
+	float:left;
+	width:120px;
+	height:45px; }
+	.menukap {
+	margin-top:1%;
+	height:40px;
+	width:670px;
+	float:right; }
+	.menukap hr {margin-top:0;}
+	.menukap ul {
+	margin:25px 0 0 0;
+	float:right;
+	font-size:15px; }
+	.menukap ul li{
+	margin:0 20px 0 0;
+	float:left; }
+	.menu {
+	font-size:15px;	
+	color:#97a5b5; }
+	.in {float:left; margin:-5px 20px 0 0; width:90px; height:30px; background-color:#6e7d8d; border-radius:17px; border:0; color:#fff;}
+	.up{float:left; margin:-5px 0 0 0; width:90px; height:30px; background-color:#f97307; border-radius:17px; border:0; color:#fff;}
+	/*İlk Sayfa Boyutu İçin Bitiş */
+	/*İkinci Sayfa Boyutu İçin */
+	.aboutus2 {background-color:#dae5f7; height:155px;}
+	.aboutus2text h1 {color:#565656; margin-top:7%; width:38%; font-size:20px; font-weight:bold;}
+	.home {margin-left:11%;}
+	.aboutus2text ul {float:right; margin-top:-4%; width:31%;}
+	.aboutus2text li {float:left; margin:0 10px 0 0; font-size:15px; color:#a0a3a8;}
+	.aboutus2text a {color:#a0a3a8;}
+	.aboutus2text a span {color:#565656;}
+	/*İkinci Sayfa Boyutu İçin Bitiş */
+	/*Üçüncü Sayfa Boyutu İçin */
+	.aboutus3 {height:415px; background-color:#cfcece;}
+	/*Üçüncü Sayfa Boyutu İçin Bitiş */
+	/*Dördünxü Sayfa Boyutu İçin  */ 
+	.aboutus4 {height:1340px; background-color:#f4f4f4;}
+	.dont {text-align:center; margin:65px 0 90px 0;}
+	.nameinput input{opacity:0.3; font-size:15px; text-indent:20px; width:460px; height:45px; border-radius:10px; border:2px solid #dbdbdb; margin:0 0 30px 0;}
+	.nameinputt {float:right; margin:-40% 0 0 0;}
+	.nameinputt textarea {resize:none; width:460px; opacity:0.3; height:270px;  text-indent:20px; border-radius:10px; border:2px solid #dbdbdb;}
+	.reset {margin:0 20px 0 0; width:130px; height:60px; background-color:#cfcece; border:#acacac; border-bottom:2px solid #acacac;  border-radius:5px; color:#fff; font-weight:bold; font-size:15px; 	}
+	.send {width:215px; height:60px; background-color:#65be3e; border:#498e2b; 	border-bottom:2px solid #498e2b; border-radius:5px; color:#fff; font-weight:bold; font-size:15px;}
+	.send img {margin:-2px 20px 0 0;}
+	.buttonkap {float:right; margin-bottom:30px;}
+	.do h1 {margin:155px 0 0 0; text-align:center; color:#838383; font-weight:leighter; font-size:25px;}
+	.do h1 span {color:#565656; font-weight:bold;}
+	.do p {text-align:center; margin-top:40px; color:#959595;}
+	.sosyaller {float:left; margin-top:110px;}
+	.twitter {float:left; color:#22bbfb; margin:0 100px 0 0; font-size:15px; text-align:center;}
+	.facee {color:#537ec7; float:left; margin:0 100px 0 0;  font-size:15px; text-align:center;}
+	.drib {color:#f28bfb; float:left; margin:0 100px 0 0;  font-size:15px; text-align:center;}
+	.gooog {color:#ea694b; float:left;   font-size:15px; text-align:center;}
+	/*Dördünxü Sayfa Boyutu İçin  */ 
+	/*Beşinci Sayfa Boyutu İçin*/
+	.bolum5 {height:410px; background-image:url(../img/arka.png);}
+	.bir {margin-top:3%; float:left;}
+	.bir h2 {color:#fff; margin-bottom:15%;}
+	.bir ul {padding:0;}
+	.bir li {margin:0 0 8% 0; color:#bcbec0;}
+	.iki {margin-top:3%; float:left; margin-left:2%;}
+	.iki h2 {color:#fff; margin-bottom:20%;}
+	.iki a {color:#bcbec0;}
+	.iki ul {padding:0;}
+	.iki li {margin:0 0 10% 0;}
+	.uc {margin-top:3%; float:left; margin-left:3%;}
+	.uc h2 {color:#fff; margin-bottom:15%;}
+	.dort {margin-top:3%; float:left; margin-left:1%;}
+	.dort h2 {color:#fff; margin-bottom:15%;}
+	.ilk {width:73%;}
+	.yan p span {font-size:14px; font-style: oblique;}
+	.yan h4 {font-size:17px;}
+	.yan h5 {font-size:14px;}
+	.yan {float:right; margin-top:-8.5%; color:#cbcccc;}
+	.two {width:73%; margin-top:20%;}
+	.yan1 p  {font-size:14px; font-style: oblique;}
+	.yan1 {float:right; margin-top:-9%; color:#cbcccc;}
+	.yan1 h4 {font-size:17px;}
+	.yan1 h5 {font-size:14px;}
+	.altkisim {background:url(../img/alt.png); height:70px; width:100%; clear:both;}
+	.altkisim  p {font-size:16px; margin:2% 0 0 15%; color:#bfc2c3; float:left;}
+	/*Beşinci Sayfa Boyutu İçin Bitiş */
+	/*14. Sayfa Boyutu İçin Bitiş */ /*14. Sayfa Boyutu İçin Bitiş */ /*14. Sayfa Boyutu İçin Bitiş */ /*14. Sayfa Boyutu İçin Bitiş */
+	
+	/*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	
+	.sonsayfa {background-image:url(..//img/arka.png); height:835px;}
+	.weare h1{text-align:center; color:#707983; font-weight:lighter; font-size:27px; margin:115px 0 110px 0;}
+	.weare h1 span {color:#f8f8f8;}
+	.saat {text-align:center;}
+	.saat img {margin:0 40px 0 0;}
+	.saattext li {font-size:17px; float:left; color:#f8f8f8; margin:50px -85px 0 20%;}
+	.saattext img {margin:0 auto; display:block; margin-top:180px;}
+	
+	.logoo {
+	margin:0 auto;
+	display:block;
+	margin-top:70px;
+	width:120px;
+	height:45px; }
+	/*İLK Sayfa Boyutu İçin Bölüm*/
+	/*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */ /*15. Sayfa Boyutu İçin Bitiş */
